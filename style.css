@@ -1,9 +1,9 @@
 /* Body styling */
 body {
-  background: #713e94;
+  background: #17a589;
   color: #fff;
-  font-family: Helvetica, Arial;
-  font-size: 27px;
+  font-family: Algerian, Arial;
+  font-size: 60px;
   font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
@@ -35,7 +35,7 @@ h1 {
   color: #fff;
   cursor: pointer; 
   display: block;
-  font-size: 20px;
+  font-size: 50px;
   font-weight: bold;  
   margin: 0 auto 60px;
   padding: 1em 2em; 
