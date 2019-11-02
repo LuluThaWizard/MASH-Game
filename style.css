@@ -1,7 +1,7 @@
 /* Body styling */
 body {
-  background: #17a589;
-  color: #fff;
+  background: #5CDB95;
+  color: #651fff;
   font-family: Algerian, Arial;
   font-size: 60px;
   font-weight: 300;
@@ -14,8 +14,8 @@ body {
 
 /* Heading Styles */
 h1 {
-  font-size: 60px;
-  color: #fff;
+  font-size: 80px;
+  color: #3d5afe;
   text-align: center;
 }
 
@@ -30,9 +30,9 @@ h1 {
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
   background: transparent;
-  border: 3px solid #fff;
+  border: 3px solid #3d5afe;
   border-radius: 6px;
-  color: #fff;
+  color: #f50057;
   cursor: pointer; 
   display: block;
   font-size: 50px;
